@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50150/books/</loc>
+    <loc>https://teddyrookbookclub.com/books/</loc>
   </url><url>
-    <loc>http://localhost:50150/categories/</loc>
+    <loc>https://teddyrookbookclub.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:50150/tags/</loc>
+    <loc>https://teddyrookbookclub.com/tags/</loc>
   </url><url>
-    <loc>http://localhost:50150/</loc>
+    <loc>https://teddyrookbookclub.com/</loc>
   </url>
 </urlset>
