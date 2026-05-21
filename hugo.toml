@@ -1,0 +1,39 @@
+baseURL = "https://teddyrookbookclub.com/"
+title = "Teddy Rook Book Club"
+theme = "PaperMod"
+languageCode = "en-us"
+
+# Appearance
+paginate = 10
+summaryLength = 30
+
+# Menu (we'll expand later)
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Books"
+url = "/books/"
+weight = 2
+
+[[menu.main]]
+name = "Podcast"
+url = "/podcast/"
+weight = 3
+
+# PaperMod settings
+[params]
+  author = "Teddy Rook"
+  description = "Book club & podcast exploring great books — Harvard Classics, Great Books of the Western World, and more."
+  defaultTheme = "auto"        # light/dark/auto
+  ShowReadingTime = false
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+  # Branding colors — British Racing Green
+  [params.style]
+    mainColor = "#004C2A"      # British Racing Green
