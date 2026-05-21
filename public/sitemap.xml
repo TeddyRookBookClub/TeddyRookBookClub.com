@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:50363/books/</loc>
+    <loc>http://localhost:50514/books/</loc>
   </url><url>
-    <loc>http://localhost:50363/categories/</loc>
+    <loc>http://localhost:50514/categories/</loc>
   </url><url>
-    <loc>http://localhost:50363/tags/</loc>
+    <loc>http://localhost:50514/tags/</loc>
   </url><url>
-    <loc>http://localhost:50363/</loc>
+    <loc>http://localhost:50514/</loc>
   </url>
 </urlset>

@@ -6,6 +6,7 @@ year: 1813
 genre: "Fiction"
 collection: "Harvard Classics"
 haveRead: false
+isListPage: false   # Add this line
 ---
 
-My notes on this classic will go here...
+My notes will go here...
