@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Teddy Rook Book Club</title>
-    <link>http://localhost:50514/categories/</link>
+    <link>http://localhost:50566/categories/</link>
     <description>Recent content in Categories on Teddy Rook Book Club</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:50514/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50566/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
