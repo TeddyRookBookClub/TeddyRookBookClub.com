@@ -115,64 +115,7 @@
         </ul>
     </nav>
 </header>
-<main class="main">
-<div class="book-table-page">
-  <h1>My Books</h1>
-  <p class="lead">Sortable & filterable reading list — Harvard Classics, Great Books of the Western World, and more.</p>
-
-  <table id="bookTable" class="book-table">
-    <thead>
-      <tr>
-        <th>Title</th>
-        <th>Author(s)</th>
-        <th>Pages</th>
-        <th>Year</th>
-        <th>Genre</th>
-        <th>Collection</th>
-        <th>Status</th>
-        <th>Links</th>
-      </tr>
-    </thead>
-    <tbody>
-      
-    </tbody>
-  </table>
-</div>
-
-<script>
-document.addEventListener('DOMContentLoaded', function () {
-  const table = document.getElementById('bookTable');
-  if (!table) return;
-
-  const headers = table.querySelectorAll('th');
-  headers.forEach((header, index) => {
-    header.style.cursor = 'pointer';
-    header.addEventListener('click', () => sortTable(table, index));
-  });
-});
-
-function sortTable(table, colIndex) {
-  let rows = Array.from(table.tBodies[0].rows);
-  const dir = table.dataset.sortDir === 'asc' ? 'desc' : 'asc';
-  rows.sort((a, b) => {
-    let x = a.cells[colIndex].textContent.trim().toLowerCase();
-    let y = b.cells[colIndex].textContent.trim().toLowerCase();
-    if (!isNaN(x) && !isNaN(y)) return dir === 'asc' ? x - y : y - x;
-    return dir === 'asc' ? x.localeCompare(y) : y.localeCompare(x);
-  });
-  rows.forEach(row => table.tBodies[0].appendChild(row));
-  table.dataset.sortDir = dir;
-}
-</script>
-
-<style>
-.book-table { width: 100%; border-collapse: collapse; margin: 2rem 0; }
-.book-table th, .book-table td { padding: 12px 10px; text-align: left; border-bottom: 1px solid #ddd; }
-.book-table th { background: #004C2A; color: white; cursor: pointer; }
-.book-table tr:hover { background-color: #f8f9fa; }
-.book-table a { color: #004C2A; text-decoration: underline; }
-</style>
-
+<main class="main"> 
     </main>
     
 <footer class="footer">
