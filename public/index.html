@@ -2,7 +2,7 @@
 <html lang="en" dir="auto" data-theme="auto">
 
 <head>
-	<meta name="generator" content="Hugo 0.161.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=50253&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+	<meta name="generator" content="Hugo 0.161.1"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=50363&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
@@ -10,17 +10,17 @@
 
 <meta name="description" content="Book club &amp; podcast exploring great books — Harvard Classics, Great Books of the Western World, and more.">
 <meta name="author" content="Teddy Rook">
-<link rel="canonical" href="http://localhost:50253/">
+<link rel="canonical" href="http://localhost:50363/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.cd9298b33628769aa1bc1acebbbfd7aa11ce81dfe03484d479e1907760249a1d.css" integrity="sha256-zZKYszYodpqhvBrOu7/XqhHOgd/gNITUeeGQd2Akmh0=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:50253/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:50253/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:50253/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:50253/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:50253/safari-pinned-tab.svg">
+<link rel="icon" href="http://localhost:50363/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:50363/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:50363/favicon-32x32.png">
+<link rel="apple-touch-icon" href="http://localhost:50363/apple-touch-icon.png">
+<link rel="mask-icon" href="http://localhost:50363/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:50253/index.xml" title="rss">
-<link rel="alternate" hreflang="en" href="http://localhost:50253/">
+<link rel="alternate" type="application/rss+xml" href="http://localhost:50363/index.xml" title="rss">
+<link rel="alternate" hreflang="en" href="http://localhost:50363/">
 <noscript>
     <style>
         #theme-toggle,
@@ -72,7 +72,7 @@
     <header class="header">
     <nav class="header-nav">
         <div class="logo">
-            <a href="http://localhost:50253/" accesskey="h" title="Teddy Rook Book Club (Alt + H)">Teddy Rook Book Club</a>
+            <a href="http://localhost:50363/" accesskey="h" title="Teddy Rook Book Club (Alt + H)">Teddy Rook Book Club</a>
             <div class="logo-switches">
                 <button id="theme-toggle" class="theme-toggle" accesskey="t" title="(Alt + T)" aria-label="Toggle theme">
                     <svg class="moon" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 24 24"
@@ -98,28 +98,85 @@
         </div>
         <ul id="menu" class="menu">
             <li>
-                <a href="http://localhost:50253/" title="Home">
+                <a href="http://localhost:50363/" title="Home">
                     <span class="active">Home</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:50253/books/" title="Books">
+                <a href="http://localhost:50363/books/" title="Books">
                     <span>Books</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:50253/podcast/" title="Podcast">
+                <a href="http://localhost:50363/podcast/" title="Podcast">
                     <span>Podcast</span>
                 </a>
             </li>
         </ul>
     </nav>
 </header>
-<main class="main"> 
+<main class="main">
+<div class="book-table-page">
+  <h1>My Books</h1>
+  <p class="lead">Sortable & filterable reading list — Harvard Classics, Great Books of the Western World, and more.</p>
+
+  <table id="bookTable" class="book-table">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author(s)</th>
+        <th>Pages</th>
+        <th>Year</th>
+        <th>Genre</th>
+        <th>Collection</th>
+        <th>Status</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      
+    </tbody>
+  </table>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const table = document.getElementById('bookTable');
+  if (!table) return;
+
+  const headers = table.querySelectorAll('th');
+  headers.forEach((header, index) => {
+    header.style.cursor = 'pointer';
+    header.addEventListener('click', () => sortTable(table, index));
+  });
+});
+
+function sortTable(table, colIndex) {
+  let rows = Array.from(table.tBodies[0].rows);
+  const dir = table.dataset.sortDir === 'asc' ? 'desc' : 'asc';
+  rows.sort((a, b) => {
+    let x = a.cells[colIndex].textContent.trim().toLowerCase();
+    let y = b.cells[colIndex].textContent.trim().toLowerCase();
+    if (!isNaN(x) && !isNaN(y)) return dir === 'asc' ? x - y : y - x;
+    return dir === 'asc' ? x.localeCompare(y) : y.localeCompare(x);
+  });
+  rows.forEach(row => table.tBodies[0].appendChild(row));
+  table.dataset.sortDir = dir;
+}
+</script>
+
+<style>
+.book-table { width: 100%; border-collapse: collapse; margin: 2rem 0; }
+.book-table th, .book-table td { padding: 12px 10px; text-align: left; border-bottom: 1px solid #ddd; }
+.book-table th { background: #004C2A; color: white; cursor: pointer; }
+.book-table tr:hover { background-color: #f8f9fa; }
+.book-table a { color: #004C2A; text-decoration: underline; }
+</style>
+
     </main>
     
 <footer class="footer">
-        <span>&copy; 2026 <a href="http://localhost:50253/">Teddy Rook Book Club</a></span> · 
+        <span>&copy; 2026 <a href="http://localhost:50363/">Teddy Rook Book Club</a></span> · 
 
     
     
