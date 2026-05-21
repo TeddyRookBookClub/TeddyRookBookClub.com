@@ -1,0 +1,73 @@
+{{ define "main" }}
+<div class="book-table-container">
+  <table id="bookTable" class="sortable-table">
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Author(s)</th>
+        <th>Pages</th>
+        <th>Year</th>
+        <th>Genre</th>
+        <th>Collection</th>
+        <th>Status</th>
+        <th>Links</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{ range where .Site.RegularPages "Section" "books" }}
+        {{ if ne .Params.title "Books" }}  <!-- skip the index page itself -->
+        <tr>
+          <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+          <td>{{ .Params.author | default "Unknown" }}</td>
+          <td>{{ .Params.pages | default "—" }}</td>
+          <td>{{ .Params.year | default "—" }}</td>
+          <td>{{ .Params.genre | default "—" }}</td>
+          <td>{{ .Params.collection | default "Other" }}</td>
+          <td>{{ if .Params.haveRead }}✅ Read{{ else }}📖 To Read{{ end }}</td>
+          <td>
+            {{ if .Params.podcast }}<a href="{{ .Params.podcast }}">🎙️</a>{{ end }}
+            <!-- more links later -->
+          </td>
+        </tr>
+        {{ end }}
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+
+<script>
+// Simple vanilla JS sortable table + filter (no external dependencies)
+document.addEventListener('DOMContentLoaded', function() {
+  const table = document.getElementById('bookTable');
+  if (!table) return;
+  
+  // Basic sorting (click headers)
+  const headers = table.querySelectorAll('th');
+  headers.forEach((header, index) => {
+    header.style.cursor = 'pointer';
+    header.addEventListener('click', () => {
+      sortTable(table, index);
+    });
+  });
+});
+
+function sortTable(table, col) {
+  // Simple sort implementation - we can improve later
+  let rows = Array.from(table.rows).slice(1);
+  const isAsc = !table.dataset.sortDir || table.dataset.sortDir === 'desc';
+  rows.sort((a, b) => {
+    let valA = a.cells[col].textContent.trim();
+    let valB = b.cells[col].textContent.trim();
+    return isAsc ? valA.localeCompare(valB) : valB.localeCompare(valA);
+  });
+  rows.forEach(row => table.tBodies[0].appendChild(row));
+  table.dataset.sortDir = isAsc ? 'asc' : 'desc';
+}
+</script>
+
+<style>
+.sortable-table { width: 100%; border-collapse: collapse; }
+.sortable-table th, .sortable-table td { padding: 12px; text-align: left; border-bottom: 1px solid #ddd; }
+.sortable-table th { background: #004C2A; color: white; cursor: pointer; }
+</style>
+{{ end }}
