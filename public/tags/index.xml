@@ -5,7 +5,7 @@
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Teddy Rook Book Club</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
+    <language>en</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,7 +1,8 @@
 baseURL = "https://teddyrookbookclub.com/"
 title = "Teddy Rook Book Club"
 theme = "PaperMod"
-languageCode = "en-us"
+languageCode = "en"
+defaultContentLanguage = "en"
 
 # Appearance
 paginate = 10
