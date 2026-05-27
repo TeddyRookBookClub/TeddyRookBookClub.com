@@ -1,0 +1,30 @@
+---
+title: "Macbeth"
+author: "William Shakespeare"
+pages: 90
+year: 1606
+genre: "Drama"
+collection: "Harvard Classics Vol. 46"
+haveRead: false
+lastUpdated: "2026-05-25"
+audiobook: "2h 40m"
+podcast: ""
+links: []
+---
+
+# Macbeth
+
+**William Shakespeare • 1606 • ~90 pages**
+
+*Harvard Classics Vol. 46*
+
+## Key Quotes
+
+> (Add your favorite passages here)
+
+## My Notes & Reflections
+
+(Add your thoughts, themes, how it connects to other books, discussion questions for the club...)
+
+**Status:** 📖 To Read
+

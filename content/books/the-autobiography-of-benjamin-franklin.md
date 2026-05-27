@@ -1,0 +1,21 @@
+---
+title: "The Autobiography of Benjamin Franklin"
+author: "Benjamin Franklin"
+pages: 300
+year: 1791
+genre: "Biography"
+collection: "Harvard Classics Vol. 1"
+haveRead: false
+podcast: ""
+lastUpdated: "2026-05-15"
+audiobook: "6h 20m"
+links: []
+---
+# The Autobiography of Benjamin Franklin
+**Benjamin Franklin • 1791 • ~300 pages**
+*Harvard Classics Vol. 1*
+## Key Quotes
+> (Add your favorite passages here)
+## My Notes & Reflections
+(Add your thoughts, themes, how it connects to other books, discussion questions for the club...)
+**Status:** 📖 To Read

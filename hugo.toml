@@ -10,24 +10,15 @@ summaryLength = 30
 
 # Menu (we'll expand later)
 [[menu.main]]
-name = "Home"
-url = "/"
+name = "Reading List"
+url = "/#my-reading-list"
 weight = 1
 
-[[menu.main]]
-name = "Books"
-url = "/books/"
-weight = 2
-
-[[menu.main]]
-name = "Podcast"
-url = "/podcast/"
-weight = 3
 
 # PaperMod settings
 [params]
   author = "Teddy Rook"
-  description = "Book club & podcast exploring great books — Harvard Classics, Great Books of the Western World, and more."
+  description = "A personal reading list and notes on the Great Books — Harvard Classics, Great Books of the Western World, and beyond."
   defaultTheme = "auto"        # light/dark/auto
   ShowReadingTime = false
   ShowShareButtons = true

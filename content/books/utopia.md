@@ -1,0 +1,21 @@
+---
+title: "Utopia"
+author: "Thomas More"
+pages: 128
+year: 1516
+genre: "Political Philosophy"
+collection: "Harvard Classics Vol. 36"
+haveRead: false
+podcast: ""
+lastUpdated: "2026-04-20"
+audiobook: "3h 50m"
+links: []
+---
+# Utopia
+**Thomas More • 1516 • ~128 pages**
+*Harvard Classics Vol. 36*
+## Key Quotes
+> (Add your favorite passages here)
+## My Notes & Reflections
+(Add your thoughts, themes, how it connects to other books, discussion questions for the club...)
+**Status:** 📖 To Read

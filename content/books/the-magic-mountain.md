@@ -1,0 +1,30 @@
+---
+title: "The Magic Mountain"
+author: "Thomas Mann"
+pages: 700
+year: 1924
+genre: "Fiction"
+collection: ""
+haveRead: false
+lastUpdated: "2026-05-26"
+audiobook: "22h 00m"
+podcast: ""
+links: []
+---
+
+# The Magic Mountain
+
+**Thomas Mann • 1924 • ~700 pages**
+
+*Book Recommendations*
+
+## Key Quotes
+
+> (Add your favorite passages here)
+
+## My Notes & Reflections
+
+A young man visits a sanatorium in the Alps and stays for seven years. A sweeping novel of ideas about time, illness, and European civilization on the brink of war.
+
+**Status:** 📖 To Read
+
