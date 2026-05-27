@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Teddy Rook Book Club</title>
-    <link>http://localhost:64398/</link>
+    <link>http://localhost:51057/</link>
     <description>Recent content on Teddy Rook Book Club</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:64398/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51057/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Tale of Two Cities</title>
-      <link>http://localhost:64398/books/a-tale-of-two-cities/</link>
+      <link>http://localhost:51057/books/a-tale-of-two-cities/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/a-tale-of-two-cities/</guid>
+      <guid>http://localhost:51057/books/a-tale-of-two-cities/</guid>
       <description>&lt;h1 id=&#34;a-tale-of-two-cities&#34;&gt;A Tale of Two Cities&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Charles Dickens • 1859 • ~340 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Book Recommendations&lt;/em&gt;&lt;/p&gt;
@@ -24,9 +24,9 @@
     </item>
     <item>
       <title>Anna Karenina</title>
-      <link>http://localhost:64398/books/anna-karenina/</link>
+      <link>http://localhost:51057/books/anna-karenina/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/anna-karenina/</guid>
+      <guid>http://localhost:51057/books/anna-karenina/</guid>
       <description>&lt;h1 id=&#34;anna-karenina&#34;&gt;Anna Karenina&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Leo Tolstoy • 1877 • ~864 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Great Books of the Western World&lt;/em&gt;&lt;/p&gt;
@@ -39,9 +39,9 @@
     </item>
     <item>
       <title>Beowulf</title>
-      <link>http://localhost:64398/books/beowulf/</link>
+      <link>http://localhost:51057/books/beowulf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/beowulf/</guid>
+      <guid>http://localhost:51057/books/beowulf/</guid>
       <description>&lt;h1 id=&#34;beowulf&#34;&gt;Beowulf&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Anonymous • 1000 • ~120 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Book Recommendations&lt;/em&gt;&lt;/p&gt;
@@ -54,9 +54,9 @@
     </item>
     <item>
       <title>Candide</title>
-      <link>http://localhost:64398/books/candide/</link>
+      <link>http://localhost:51057/books/candide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/candide/</guid>
+      <guid>http://localhost:51057/books/candide/</guid>
       <description>&lt;h1 id=&#34;candide&#34;&gt;Candide&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Voltaire • 1759 • ~130 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Other&lt;/em&gt;&lt;/p&gt;
@@ -69,9 +69,9 @@
     </item>
     <item>
       <title>Crime and Punishment</title>
-      <link>http://localhost:64398/books/crime-and-punishment/</link>
+      <link>http://localhost:51057/books/crime-and-punishment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/crime-and-punishment/</guid>
+      <guid>http://localhost:51057/books/crime-and-punishment/</guid>
       <description>&lt;h1 id=&#34;crime-and-punishment&#34;&gt;Crime and Punishment&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Fyodor Dostoevsky • 1866 • ~545 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Great Books of the Western World&lt;/em&gt;&lt;/p&gt;
@@ -84,9 +84,9 @@
     </item>
     <item>
       <title>Don Quixote</title>
-      <link>http://localhost:64398/books/don-quixote/</link>
+      <link>http://localhost:51057/books/don-quixote/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/don-quixote/</guid>
+      <guid>http://localhost:51057/books/don-quixote/</guid>
       <description>&lt;h1 id=&#34;don-quixote&#34;&gt;Don Quixote&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Miguel de Cervantes • 1605 • ~1072 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 14&lt;/em&gt;&lt;/p&gt;
@@ -100,9 +100,9 @@
     </item>
     <item>
       <title>Faust, Part I</title>
-      <link>http://localhost:64398/books/faust-part-i/</link>
+      <link>http://localhost:51057/books/faust-part-i/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/faust-part-i/</guid>
+      <guid>http://localhost:51057/books/faust-part-i/</guid>
       <description>&lt;h1 id=&#34;faust-part-i&#34;&gt;Faust, Part I&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Johann Wolfgang von Goethe • 1808 • ~200 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Harvard Classics Vol. 19&lt;/em&gt;&lt;/p&gt;
@@ -115,9 +115,9 @@
     </item>
     <item>
       <title>Fear and Trembling</title>
-      <link>http://localhost:64398/books/fear-and-trembling/</link>
+      <link>http://localhost:51057/books/fear-and-trembling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/fear-and-trembling/</guid>
+      <guid>http://localhost:51057/books/fear-and-trembling/</guid>
       <description>&lt;h1 id=&#34;fear-and-trembling&#34;&gt;Fear and Trembling&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Søren Kierkegaard • 1843 • ~160 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Book Recommendations&lt;/em&gt;&lt;/p&gt;
@@ -130,9 +130,9 @@
     </item>
     <item>
       <title>Hamlet</title>
-      <link>http://localhost:64398/books/hamlet/</link>
+      <link>http://localhost:51057/books/hamlet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/hamlet/</guid>
+      <guid>http://localhost:51057/books/hamlet/</guid>
       <description>&lt;h1 id=&#34;hamlet&#34;&gt;Hamlet&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;William Shakespeare • 1600 • ~152 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 46&lt;/em&gt;&lt;/p&gt;
@@ -146,9 +146,9 @@
     </item>
     <item>
       <title>Leaves of Grass</title>
-      <link>http://localhost:64398/books/leaves-of-grass/</link>
+      <link>http://localhost:51057/books/leaves-of-grass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/leaves-of-grass/</guid>
+      <guid>http://localhost:51057/books/leaves-of-grass/</guid>
       <description>&lt;h1 id=&#34;leaves-of-grass&#34;&gt;Leaves of Grass&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Walt Whitman • 1855 • ~450 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Harvard Classics Vol. 42&lt;/em&gt;&lt;/p&gt;
@@ -161,9 +161,9 @@
     </item>
     <item>
       <title>Macbeth</title>
-      <link>http://localhost:64398/books/macbeth/</link>
+      <link>http://localhost:51057/books/macbeth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/macbeth/</guid>
+      <guid>http://localhost:51057/books/macbeth/</guid>
       <description>&lt;h1 id=&#34;macbeth&#34;&gt;Macbeth&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;William Shakespeare • 1606 • ~90 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Harvard Classics Vol. 46&lt;/em&gt;&lt;/p&gt;
@@ -176,9 +176,9 @@
     </item>
     <item>
       <title>Meditations</title>
-      <link>http://localhost:64398/books/meditations/</link>
+      <link>http://localhost:51057/books/meditations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/meditations/</guid>
+      <guid>http://localhost:51057/books/meditations/</guid>
       <description>&lt;h1 id=&#34;meditations&#34;&gt;Meditations&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Marcus Aurelius • 180 • ~192 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 2&lt;/em&gt;&lt;/p&gt;
@@ -190,9 +190,9 @@
     </item>
     <item>
       <title>Moby-Dick</title>
-      <link>http://localhost:64398/books/moby-dick/</link>
+      <link>http://localhost:51057/books/moby-dick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/moby-dick/</guid>
+      <guid>http://localhost:51057/books/moby-dick/</guid>
       <description>&lt;h1 id=&#34;moby-dick&#34;&gt;Moby-Dick&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Herman Melville • 1851 • ~635 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Book Recommendations&lt;/em&gt;&lt;/p&gt;
@@ -205,9 +205,9 @@
     </item>
     <item>
       <title>Nicomachean Ethics</title>
-      <link>http://localhost:64398/books/nicomachean-ethics/</link>
+      <link>http://localhost:51057/books/nicomachean-ethics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/nicomachean-ethics/</guid>
+      <guid>http://localhost:51057/books/nicomachean-ethics/</guid>
       <description>&lt;h1 id=&#34;nicomachean-ethics&#34;&gt;Nicomachean Ethics&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Aristotle • -350 • ~200 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Great Books of the Western World&lt;/em&gt;&lt;/p&gt;
@@ -220,9 +220,9 @@
     </item>
     <item>
       <title>On the Origin of Species</title>
-      <link>http://localhost:64398/books/on-the-origin-of-species/</link>
+      <link>http://localhost:51057/books/on-the-origin-of-species/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/on-the-origin-of-species/</guid>
+      <guid>http://localhost:51057/books/on-the-origin-of-species/</guid>
       <description>&lt;h1 id=&#34;on-the-origin-of-species&#34;&gt;On the Origin of Species&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Charles Darwin • 1859 • ~502 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 11&lt;/em&gt;&lt;/p&gt;
@@ -236,9 +236,9 @@
     </item>
     <item>
       <title>Paradise Lost</title>
-      <link>http://localhost:64398/books/paradise-lost/</link>
+      <link>http://localhost:51057/books/paradise-lost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/paradise-lost/</guid>
+      <guid>http://localhost:51057/books/paradise-lost/</guid>
       <description>&lt;h1 id=&#34;paradise-lost&#34;&gt;Paradise Lost&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;John Milton • 1667 • ~350 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Harvard Classics Vol. 4&lt;/em&gt;&lt;/p&gt;
@@ -251,18 +251,18 @@
     </item>
     <item>
       <title>Pride and Prejudice</title>
-      <link>http://localhost:64398/books/pride-and-prejudice/</link>
+      <link>http://localhost:51057/books/pride-and-prejudice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/pride-and-prejudice/</guid>
+      <guid>http://localhost:51057/books/pride-and-prejudice/</guid>
       <description>&lt;h1 id=&#34;pride-and-prejudice&#34;&gt;Pride and Prejudice&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Jane Austen • 1813 • 432 pages&lt;/strong&gt;
 A timeless romance of manners, wit, and the perils of first impressions. Elizabeth Bennet and Mr. Darcy navigate love, class, and personal growth in Regency England.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Swann&#39;s Way</title>
-      <link>http://localhost:64398/books/swanns-way/</link>
+      <link>http://localhost:51057/books/swanns-way/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/swanns-way/</guid>
+      <guid>http://localhost:51057/books/swanns-way/</guid>
       <description>&lt;h1 id=&#34;swanns-way&#34;&gt;Swann&amp;rsquo;s Way&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Marcel Proust • 1913 • ~450 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Book Recommendations&lt;/em&gt;&lt;/p&gt;
@@ -275,9 +275,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Aeneid</title>
-      <link>http://localhost:64398/books/the-aeneid/</link>
+      <link>http://localhost:51057/books/the-aeneid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-aeneid/</guid>
+      <guid>http://localhost:51057/books/the-aeneid/</guid>
       <description>&lt;h1 id=&#34;the-aeneid&#34;&gt;The Aeneid&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Virgil • -19 • ~400 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Harvard Classics Vol. 13&lt;/em&gt;&lt;/p&gt;
@@ -290,9 +290,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Autobiography of Benjamin Franklin</title>
-      <link>http://localhost:64398/books/the-autobiography-of-benjamin-franklin/</link>
+      <link>http://localhost:51057/books/the-autobiography-of-benjamin-franklin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-autobiography-of-benjamin-franklin/</guid>
+      <guid>http://localhost:51057/books/the-autobiography-of-benjamin-franklin/</guid>
       <description>&lt;h1 id=&#34;the-autobiography-of-benjamin-franklin&#34;&gt;The Autobiography of Benjamin Franklin&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Benjamin Franklin • 1791 • ~300 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 1&lt;/em&gt;&lt;/p&gt;
@@ -306,9 +306,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Brothers Karamazov</title>
-      <link>http://localhost:64398/books/the-brothers-karamazov/</link>
+      <link>http://localhost:51057/books/the-brothers-karamazov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-brothers-karamazov/</guid>
+      <guid>http://localhost:51057/books/the-brothers-karamazov/</guid>
       <description>&lt;h1 id=&#34;the-brothers-karamazov&#34;&gt;The Brothers Karamazov&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Fyodor Dostoevsky • 1880 • ~840 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Great Books of the Western World&lt;/em&gt;&lt;/p&gt;
@@ -321,9 +321,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Divine Comedy</title>
-      <link>http://localhost:64398/books/the-divine-comedy/</link>
+      <link>http://localhost:51057/books/the-divine-comedy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-divine-comedy/</guid>
+      <guid>http://localhost:51057/books/the-divine-comedy/</guid>
       <description>&lt;h1 id=&#34;the-divine-comedy&#34;&gt;The Divine Comedy&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Dante Alighieri • 1321 • ~432 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 20&lt;/em&gt;&lt;/p&gt;
@@ -337,9 +337,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Federalist Papers (Selections)</title>
-      <link>http://localhost:64398/books/the-federalist-papers-selections/</link>
+      <link>http://localhost:51057/books/the-federalist-papers-selections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-federalist-papers-selections/</guid>
+      <guid>http://localhost:51057/books/the-federalist-papers-selections/</guid>
       <description>&lt;h1 id=&#34;the-federalist-papers-selections&#34;&gt;The Federalist Papers (Selections)&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Alexander Hamilton, James Madison, John Jay • 1788 • ~250 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Harvard Classics Vol. 43&lt;/em&gt;&lt;/p&gt;
@@ -352,9 +352,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Iliad</title>
-      <link>http://localhost:64398/books/the-iliad/</link>
+      <link>http://localhost:51057/books/the-iliad/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-iliad/</guid>
+      <guid>http://localhost:51057/books/the-iliad/</guid>
       <description>&lt;h1 id=&#34;the-iliad&#34;&gt;The Iliad&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Homer • -750 • ~450 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Great Books of the Western World&lt;/em&gt;&lt;/p&gt;
@@ -367,9 +367,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Magic Mountain</title>
-      <link>http://localhost:64398/books/the-magic-mountain/</link>
+      <link>http://localhost:51057/books/the-magic-mountain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-magic-mountain/</guid>
+      <guid>http://localhost:51057/books/the-magic-mountain/</guid>
       <description>&lt;h1 id=&#34;the-magic-mountain&#34;&gt;The Magic Mountain&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Thomas Mann • 1924 • ~700 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Book Recommendations&lt;/em&gt;&lt;/p&gt;
@@ -382,9 +382,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Master and Margarita</title>
-      <link>http://localhost:64398/books/the-master-and-margarita/</link>
+      <link>http://localhost:51057/books/the-master-and-margarita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-master-and-margarita/</guid>
+      <guid>http://localhost:51057/books/the-master-and-margarita/</guid>
       <description>&lt;h1 id=&#34;the-master-and-margarita&#34;&gt;The Master and Margarita&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Mikhail Bulgakov • 1967 • ~402 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Book Recommendations&lt;/em&gt;&lt;/p&gt;
@@ -397,9 +397,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Odyssey</title>
-      <link>http://localhost:64398/books/the-odyssey/</link>
+      <link>http://localhost:51057/books/the-odyssey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-odyssey/</guid>
+      <guid>http://localhost:51057/books/the-odyssey/</guid>
       <description>&lt;h1 id=&#34;the-odyssey&#34;&gt;The Odyssey&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Homer • -800 • ~350 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 22&lt;/em&gt;&lt;/p&gt;
@@ -413,9 +413,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Pilgrim&#39;s Progress</title>
-      <link>http://localhost:64398/books/the-pilgrims-progress/</link>
+      <link>http://localhost:51057/books/the-pilgrims-progress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-pilgrims-progress/</guid>
+      <guid>http://localhost:51057/books/the-pilgrims-progress/</guid>
       <description>&lt;h1 id=&#34;the-pilgrims-progress&#34;&gt;The Pilgrim&amp;rsquo;s Progress&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;John Bunyan • 1678 • ~320 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 15&lt;/em&gt;&lt;/p&gt;
@@ -429,9 +429,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Prince</title>
-      <link>http://localhost:64398/books/the-prince/</link>
+      <link>http://localhost:51057/books/the-prince/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-prince/</guid>
+      <guid>http://localhost:51057/books/the-prince/</guid>
       <description>&lt;h1 id=&#34;the-prince&#34;&gt;The Prince&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Niccolò Machiavelli • 1513 • ~140 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 36&lt;/em&gt;&lt;/p&gt;
@@ -445,9 +445,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Republic</title>
-      <link>http://localhost:64398/books/the-republic/</link>
+      <link>http://localhost:51057/books/the-republic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-republic/</guid>
+      <guid>http://localhost:51057/books/the-republic/</guid>
       <description>&lt;h1 id=&#34;the-republic&#34;&gt;The Republic&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Plato • -380 • ~300 pages&lt;/strong&gt;
 &lt;em&gt;Great Books of the Western World&lt;/em&gt;&lt;/p&gt;
@@ -461,9 +461,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Sun Also Rises</title>
-      <link>http://localhost:64398/books/the-sun-also-rises/</link>
+      <link>http://localhost:51057/books/the-sun-also-rises/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-sun-also-rises/</guid>
+      <guid>http://localhost:51057/books/the-sun-also-rises/</guid>
       <description>&lt;h1 id=&#34;the-sun-also-rises&#34;&gt;The Sun Also Rises&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Ernest Hemingway • 1926 • ~250 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Book Recommendations&lt;/em&gt;&lt;/p&gt;
@@ -476,9 +476,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>The Wealth of Nations</title>
-      <link>http://localhost:64398/books/the-wealth-of-nations/</link>
+      <link>http://localhost:51057/books/the-wealth-of-nations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/the-wealth-of-nations/</guid>
+      <guid>http://localhost:51057/books/the-wealth-of-nations/</guid>
       <description>&lt;h1 id=&#34;the-wealth-of-nations&#34;&gt;The Wealth of Nations&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Adam Smith • 1776 • ~800 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 10&lt;/em&gt;&lt;/p&gt;
@@ -492,9 +492,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>To Kill a Mockingbird</title>
-      <link>http://localhost:64398/books/to-kill-a-mockingbird/</link>
+      <link>http://localhost:51057/books/to-kill-a-mockingbird/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/to-kill-a-mockingbird/</guid>
+      <guid>http://localhost:51057/books/to-kill-a-mockingbird/</guid>
       <description>&lt;h1 id=&#34;to-kill-a-mockingbird&#34;&gt;To Kill a Mockingbird&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Harper Lee • 1960 • ~376 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Book Recommendations&lt;/em&gt;&lt;/p&gt;
@@ -507,9 +507,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>Utopia</title>
-      <link>http://localhost:64398/books/utopia/</link>
+      <link>http://localhost:51057/books/utopia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/utopia/</guid>
+      <guid>http://localhost:51057/books/utopia/</guid>
       <description>&lt;h1 id=&#34;utopia&#34;&gt;Utopia&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Thomas More • 1516 • ~128 pages&lt;/strong&gt;
 &lt;em&gt;Harvard Classics Vol. 36&lt;/em&gt;&lt;/p&gt;
@@ -523,9 +523,9 @@ A timeless romance of manners, wit, and the perils of first impressions. Elizabe
     </item>
     <item>
       <title>War and Peace</title>
-      <link>http://localhost:64398/books/war-and-peace/</link>
+      <link>http://localhost:51057/books/war-and-peace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:64398/books/war-and-peace/</guid>
+      <guid>http://localhost:51057/books/war-and-peace/</guid>
       <description>&lt;h1 id=&#34;war-and-peace&#34;&gt;War and Peace&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Leo Tolstoy • 1869 • ~1225 pages&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Great Books of the Western World&lt;/em&gt;&lt;/p&gt;
